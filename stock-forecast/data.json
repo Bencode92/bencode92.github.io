@@ -1,0 +1,72 @@
+{
+  "last_updated": "2024-01-24T10:30:00",
+  "forecast_horizon": "30 days",
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "current_price": 135.58,
+      "forecast_price": 162.45,
+      "expected_return": 19.81,
+      "volatility": 35.7,
+      "sharpe_ratio": 0.55,
+      "momentum_score": 3,
+      "rsi": 65.8,
+      "recommendation": "BUY"
+    },
+    {
+      "ticker": "AAPL",
+      "current_price": 195.83,
+      "forecast_price": 215.47,
+      "expected_return": 10.02,
+      "volatility": 22.5,
+      "sharpe_ratio": 0.45,
+      "momentum_score": 3,
+      "rsi": 58.3,
+      "recommendation": "BUY"
+    },
+    {
+      "ticker": "META",
+      "current_price": 520.84,
+      "forecast_price": 578.93,
+      "expected_return": 11.15,
+      "volatility": 28.6,
+      "sharpe_ratio": 0.39,
+      "momentum_score": 3,
+      "rsi": 61.2,
+      "recommendation": "BUY"
+    },
+    {
+      "ticker": "MSFT",
+      "current_price": 420.55,
+      "forecast_price": 445.23,
+      "expected_return": 5.87,
+      "volatility": 18.2,
+      "sharpe_ratio": 0.32,
+      "momentum_score": 2,
+      "rsi": 52.1,
+      "recommendation": "HOLD"
+    },
+    {
+      "ticker": "GOOGL",
+      "current_price": 172.63,
+      "forecast_price": 185.92,
+      "expected_return": 7.70,
+      "volatility": 24.3,
+      "sharpe_ratio": 0.32,
+      "momentum_score": 2,
+      "rsi": 48.9,
+      "recommendation": "HOLD"
+    },
+    {
+      "ticker": "TSLA",
+      "current_price": 178.79,
+      "forecast_price": 165.32,
+      "expected_return": -7.53,
+      "volatility": 42.1,
+      "sharpe_ratio": -0.18,
+      "momentum_score": 1,
+      "rsi": 35.6,
+      "recommendation": "HOLD"
+    }
+  ]
+}
